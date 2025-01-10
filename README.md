@@ -1,5 +1,7 @@
 # i3 config
 
+![alt text](example.png)
+
 Practical i3wm config with practically designed i3bar
 
 ## Requirements
